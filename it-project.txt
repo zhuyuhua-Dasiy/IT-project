@@ -8,3 +8,9 @@ printf("sum=",%d)
 
 
 //Here Lily will show us Arithmetic:
+#include<stdio.h>
+int a,b,s;
+a=4;
+b=5;
+s=a*b;
+printf("s=",%d)
