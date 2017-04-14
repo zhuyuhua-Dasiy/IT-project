@@ -1,10 +1,5 @@
 //Here Amy will show us a Addition:
-#include<stdio.h>
-int a,b,sum;
-a=4;
-b=5;
-sum=a+b;
-printf("sum=",%d)
+
 
 
 //Here Lily will show us Arithmetic:
