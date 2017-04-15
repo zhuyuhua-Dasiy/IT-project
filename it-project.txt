@@ -1,11 +1,8 @@
 //Here Amy will show us a Addition:
-
-
-
-//Here Lily will show us Arithmetic:
 #include<stdio.h>
-int a,b,s;
+int a,b,sum;
 a=4;
 b=6;
+b=5;
 sum=a+b;
 printf("sum=",%d)
